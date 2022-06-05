@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/wukap/StudioProjects/course_work/app/src/main/res/layout/activity_main.xml" value="0.29375" />
+        <entry key="..\:/Users/wukap/StudioProjects/course_work/app/src/main/res/layout/activity_athlete_node.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/wukap/StudioProjects/course_work/app/src/main/res/layout/activity_athlete_note.xml" value="0.2808988764044944" />
+        <entry key="..\:/Users/wukap/StudioProjects/course_work/app/src/main/res/layout/activity_main.xml" value="0.28368794326241137" />
+        <entry key="..\:/Users/wukap/StudioProjects/course_work/app/src/main/res/layout/athlete_item.xml" value="0.26900584795321636" />
         <entry key="..\:/Users/wukap/StudioProjects/course_work/app/src/main/res/layout/item.xml" value="0.3078125" />
+        <entry key="..\:/Users/wukap/StudioProjects/course_work/app/src/main/res/layout/item_dialoge.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>

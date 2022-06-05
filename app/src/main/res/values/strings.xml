@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">course_work</string>
+    <string name="name_hint">name...</string>
+    <string name="group_hint">group...</string>
+    <string name="note_hint">note...</string>
+    <string name="save">Сохранить</string>
+    <string name="name">имя</string>
     <string-array name="cat_names">
         <item>Рыжик</item>
         <item>Барсик</item>
